@@ -1,4 +1,4 @@
-These instructions are for mac os
+
 -To run the file, download the entire folder 'frontend-nanodegree-mobile-portfolio' and change to the folder on command line, run 'npm install' so all the node modules are downloaded
 - Run 'grunt' command. This command will execute the 'Gruntfile.js' which will produce optimized images and minified js and css files and save them in a folder called 'dist'.
 - In a new terminal window (cmd + T), run this 'python -m SimpleHTTPServer 8080', this will make our website listen to port 8080
