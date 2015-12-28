@@ -22,6 +22,7 @@
 The framerate before optimization : **30fps** 
 
 | **Category**  | **Stage 1 time** | **Stage 2 time** | **Stage 3 time** |
+|---------------|------------------|------------------|------------------|
 | **Scripting** | 14.89ms | 0.58ms | 0.72ms |
 | **Rendering** | 14.57ms | 2.40ms | 2.20ms |
 | **Painting** | 3.62ms | 4.43ms | 2.6ms |
